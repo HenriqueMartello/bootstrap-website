@@ -1,2 +1,3 @@
 # bootstrap_website
-It's only me studying some bootstrap.
+Studying about bootstrap.
+Estudando sobre bootstrap.
