@@ -1,0 +1,31 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.image_icon {
+    width: 25px;
+}
+
+.image_medium {
+    width: 150px;
+}
+
+.margin-top-small {
+    margin-top: 30px
+}
+
+.margin-top-big {
+    margin-top: 150px;
+}
+
+.padding-small {
+    padding: 15px;
+}
+
+.text-white {
+    color: white;
+}
